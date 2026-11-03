@@ -11,3 +11,5 @@ Analyses based on the full data set should however be used when comparing the re
 Mortality rates were derived by a regression model based on the exponential distribution. Regression coefficients were then used to predict 1-year mortality for each "cell" of the possible combinations of age group (in 10-year intervals) and COPD grade (according to the GOLD 2007 classification). Uncertainty was reflected by 95% confidence intervals.
 
 Moratlity rates and 95% confidence intervals can also be transformed into alpha and beta parameters of the beta distribution, used for probabilistic sensitivity analysis.
+
+Codes are deposited in two versions: A short version that replicates the key findings and illustrates the general idea of the analyses, and a full version including all analyses.
